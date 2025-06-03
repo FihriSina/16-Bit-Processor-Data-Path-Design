@@ -2,8 +2,6 @@
 
 This project was developed as part of the **Computer Organization and Architecture** course. A simple 16-bit processor architecture capable of executing basic instructions was designed using classic Logisim software.
 
-## 👨‍🎓 Student Information
-
 ## 📌 Project Overview
 
 The processor supports the following instructions:
