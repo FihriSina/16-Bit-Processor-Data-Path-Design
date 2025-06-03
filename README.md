@@ -67,6 +67,7 @@ Opcode (5) | Rs (3) | Rt (3) | Label (5)
 
 - `bit16.circ` – Logisim circuit file  
 - `README.md` – This documentation file  
+![Genel Bakış](https://github.com/user-attachments/assets/f8458643-1f3b-4c92-89cf-7b744ad549b9)
 
 
 ---
@@ -141,3 +142,4 @@ Opcode (5) | Rs (3) | Rt (3) | Label (5)
 
 - `bit16.circ` – Logisim devre dosyası
 - `README.md` – Bu tanıtım dosyası
+![Genel Bakış](https://github.com/user-attachments/assets/f8458643-1f3b-4c92-89cf-7b744ad549b9)
