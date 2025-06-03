@@ -67,7 +67,7 @@ Opcode (5) | Rs (3) | Rt (3) | Label (5)
 
 - `bit16.circ` – Logisim circuit file  
 - `README.md` – This documentation file  
-![Genel Bakış](https://github.com/user-attachments/assets/f8458643-1f3b-4c92-89cf-7b744ad549b9)
+![Proje Genel Hatları](https://github.com/user-attachments/assets/6bbffc21-9163-492f-861f-42278a2293a0)
 
 
 ---
@@ -82,7 +82,8 @@ Bu proje, **Bilgisayar Organizasyonu ve Mimarisi** dersi kapsamında gerçekleş
 Projede desteklenen komutlar şunlardır:
 
 - `SUBI` – Register ile immediate değeri çıkartır.
-- `ORI` – Register ile immediate değeri bit düzeyinde VEYA (OR) işlemi yapar.
+- `ORI` – Register ile i![Proje Genel Hatları](https://github.com/user-attachments/assets/d5d20d90-9491-4016-ab49-fe81bfe72c10)
+mmediate değeri bit düzeyinde VEYA (OR) işlemi yapar.
 - `STR` – Register'daki veriyi belleğe yazar.
 - `BNE` – İki register eşit değilse dallanma yapar.
 
@@ -142,4 +143,4 @@ Opcode (5) | Rs (3) | Rt (3) | Label (5)
 
 - `bit16.circ` – Logisim devre dosyası
 - `README.md` – Bu tanıtım dosyası
-![Genel Bakış](https://github.com/user-attachments/assets/f8458643-1f3b-4c92-89cf-7b744ad549b9)
+![Proje Genel Hatları](https://github.com/user-attachments/assets/6bbffc21-9163-492f-861f-42278a2293a0)
