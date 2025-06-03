@@ -82,8 +82,7 @@ Bu proje, **Bilgisayar Organizasyonu ve Mimarisi** dersi kapsamında gerçekleş
 Projede desteklenen komutlar şunlardır:
 
 - `SUBI` – Register ile immediate değeri çıkartır.
-- `ORI` – Register ile i![Proje Genel Hatları](https://github.com/user-attachments/assets/d5d20d90-9491-4016-ab49-fe81bfe72c10)
-mmediate değeri bit düzeyinde VEYA (OR) işlemi yapar.
+- `ORI` – Register ile immediate değeri bit düzeyinde VEYA (OR) işlemi yapar.
 - `STR` – Register'daki veriyi belleğe yazar.
 - `BNE` – İki register eşit değilse dallanma yapar.
 
